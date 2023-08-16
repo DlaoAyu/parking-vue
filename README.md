@@ -1,4 +1,10 @@
-# vue-admin-template
+# parking-vue
+
+# 项目后端地址
+## Github地址 > https://github.com/DlaoAyu/parking-admin.git
+## Gitee地址 > https://gitee.com/laoayu/parking-admin.git
+
+# 前端使用vue-admin-template脚手架进行快速搭建
 
 > 这是一个极简的 vue admin 管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
