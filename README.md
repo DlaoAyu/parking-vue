@@ -27,6 +27,13 @@ npm install --registry=https://registry.npm.taobao.org
 
 # 启动服务
 npm run dev
+
+# 用户选择
+root是超级管理员，车牌识别功能无法使用，若想测试车牌识别功能请使用admin账号登录
+账号：root
+密码：123456
+账号：admin
+密码：123456
 ```
 
 浏览器访问 [http://localhost:9999](http://localhost:9999)
