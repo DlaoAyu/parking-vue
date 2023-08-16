@@ -1,9 +1,8 @@
 # parking-vue
 
 # 项目后端地址
-
-### Github地址 > https://github.com/DlaoAyu/parking-admin.git
-### Gitee地址 > https://gitee.com/laoayu/parking-admin.git
+1. Github地址 > https://github.com/DlaoAyu/parking-admin.git
+2. Gitee地址 > https://gitee.com/laoayu/parking-admin.git
 
 # 前端使用vue-admin-template脚手架进行快速搭建
 
