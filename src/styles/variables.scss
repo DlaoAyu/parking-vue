@@ -1,0 +1,38 @@
+// sidebar
+//侧边栏菜单字体颜色
+$menuText:#CCCCCC;
+//$menuText:#bfcbd9;
+
+//侧边栏被选中后文字颜色
+$menuActiveText:#ff8940;
+
+$subMenuActiveText:#ff8940; //https://github.com/ElemeFE/element/issues/12951
+//$subMenuActiveText:#f4f4f5; //https://github.com/ElemeFE/element/issues/12951
+
+//左侧导航栏默认颜色
+$menuBg:#2C3643;  // 菜单整体背景
+//$menuBg:#304156;
+
+//左侧导航栏鼠标定位后颜色
+$menuHover:#2A2D2E;  //菜单悬浮变色
+//$menuHover:#263445;
+
+$subMenuBg:#2C3643;   // 子菜单背景
+$subMenuHover:#2A2D2E;  // 子菜单悬浮背景
+// $subMenuBg:#1f2d3d;
+// $subMenuHover:#001528;
+
+$sideBarWidth: 210px;
+
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}
